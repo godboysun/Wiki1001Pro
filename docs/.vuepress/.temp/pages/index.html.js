@@ -5,18 +5,21 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "home": true,
+    "hideFooter": true,
+    "isCustomPage": true,
+    "pageName": "Home",
     "heroImage": "/img/logo.jpg",
     "heroText": "Wiki 1001",
     "tagline": "Meet 1000 Books & Unit Them Into 1 Wiki",
     "actionText": "Get Wiki →",
-    "actionLink": "/FAQ/",
+    "actionLink": "/Links/Wiki/",
     "features": [
       {
-        "title": "Wiki - 求索",
+        "title": "FAQ - 求索",
         "details": "基于书签对知识点进行 整理，吸收，吐纳，归档。吾将上下而求索..."
       },
       {
-        "title": "Repository - 仓库",
+        "title": "Store - 仓库",
         "details": "展望云仓库而归纳整理，方便行事&培养习惯。鱼和熊掌我全都要..."
       },
       {
@@ -28,7 +31,16 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "updatedTime": 1647332955000,
+    "contributors": [
+      {
+        "name": "wenhuisun",
+        "email": "wenhuisun@deepglint.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "README.md"
 }
 

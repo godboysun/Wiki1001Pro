@@ -1,0 +1,1 @@
+const e={key:"v-1c0365b8",path:"/Thought/Travles/beiPing.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647332955e3,contributors:[{name:"wenhuisun",email:"wenhuisun@deepglint.com",commits:1}]},filePathRelative:"Thought/Travles/beiPing.md"};export{e as data};

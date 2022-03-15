@@ -13,7 +13,16 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "updatedTime": 1647332955000,
+    "contributors": [
+      {
+        "name": "wenhuisun",
+        "email": "wenhuisun@deepglint.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "Thought/README.md"
 }
 

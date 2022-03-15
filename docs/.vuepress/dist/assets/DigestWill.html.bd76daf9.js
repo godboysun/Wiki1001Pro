@@ -1,0 +1,1 @@
+const e={key:"v-a8a22d9c",path:"/FAQ/DigestionHeap/DigestWill.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647332955e3,contributors:[{name:"wenhuisun",email:"wenhuisun@deepglint.com",commits:1}]},filePathRelative:"FAQ/DigestionHeap/DigestWill.md"};export{e as data};

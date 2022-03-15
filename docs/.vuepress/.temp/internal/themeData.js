@@ -87,8 +87,21 @@ export const themeData = {
           ]
         ]
       }
+    ],
+    "/Store/": [
+      [
+        "/Store/",
+        "仓库首页"
+      ]
     ]
   },
+  "repo": "https://github.com/godboysun/Wiki1001Pro.git",
+  "repoLabel": "GitHub",
+  "docsRepo": "https://github.com/godboysun/Wiki1001Pro",
+  "docsDir": "docs",
+  "docsBranch": "master",
+  "editLinks": false,
+  "editLinkText": "Git EditLink [Private]",
   "locales": {
     "/": {
       "selectLanguageName": "English"
@@ -97,11 +110,9 @@ export const themeData = {
   "navbar": [],
   "logo": null,
   "darkMode": true,
-  "repo": null,
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",
   "editLink": true,
-  "editLinkText": "Edit this page",
   "lastUpdatedText": "Last Updated",
   "contributors": true,
   "contributorsText": "Contributors",

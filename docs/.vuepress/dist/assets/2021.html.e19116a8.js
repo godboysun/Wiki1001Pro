@@ -1,0 +1,1 @@
+const e={key:"v-b0ce7f5e",path:"/Thought/YearReview/2021.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647332955e3,contributors:[{name:"wenhuisun",email:"wenhuisun@deepglint.com",commits:1}]},filePathRelative:"Thought/YearReview/2021.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-1b6b2b65",path:"/FAQ/DigestionHeap/Digested.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647332955e3,contributors:[{name:"wenhuisun",email:"wenhuisun@deepglint.com",commits:1}]},filePathRelative:"FAQ/DigestionHeap/Digested.md"};export{e as data};

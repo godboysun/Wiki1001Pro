@@ -6,7 +6,16 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "updatedTime": 1647332955000,
+    "contributors": [
+      {
+        "name": "wenhuisun",
+        "email": "wenhuisun@deepglint.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "Thought/YearReview/2020.md"
 }
 

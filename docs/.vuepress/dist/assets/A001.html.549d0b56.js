@@ -1,0 +1,1 @@
+const e={key:"v-5942ad02",path:"/FAQ/Console/A001.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647332955e3,contributors:[{name:"wenhuisun",email:"wenhuisun@deepglint.com",commits:1}]},filePathRelative:"FAQ/Console/A001.md"};export{e as data};
